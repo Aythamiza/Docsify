@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docsi": "docsify init ./docs",
+    "docsinit": "docsify init ./docs",
     "serve": "docsify serve docs"
   },
   "repository": {
