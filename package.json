@@ -1,0 +1,26 @@
+{
+  "name": "docsify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docsi": "docsify init ./docs",
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aythamiza/Docsify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aythamiza/Docsify/issues"
+  },
+  "homepage": "https://github.com/Aythamiza/Docsify#readme",
+  "dependencies": {
+    "docsify-cli": "^4.3.0",
+    "server": "^1.0.18"
+  }
+}
