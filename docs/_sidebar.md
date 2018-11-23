@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Markcdown](/markdown.md)
+- [Markdown](/markdown.md)
 - [Install Docsify](/install/installdocsify)
 
 
